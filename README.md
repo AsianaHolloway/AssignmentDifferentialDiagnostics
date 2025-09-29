@@ -40,5 +40,20 @@ Input symptoms:
 ### Screenshot
 ![Example Output](https://github.com/AsianaHolloway/AssignmentDifferentialDiagnostics/blob/main/images.png?raw=true)
 
+## Project Purpose
+This project demonstrates how a simple **rule-based clinical decision support system** can be built by combining structured data, databases, and algorithmic scoring. The goal was to replicate the workflow of mapping symptoms to conditions and producing ranked outputs — similar to how decision support modules in EHR systems work.
+
+## What I Learned
+- How to design and query a **many-to-many schema** using SQLAlchemy and SQLite  
+- How to transform JSON clinical data into a normalized relational structure  
+- How to implement and test a **rule-based scoring function** (Frequency × EvokingStrength)  
+- How to present results in **Pandas DataFrames** and visualize outputs for interpretation  
+
+## Real-World Applications
+- Shows transferable skills in **data modeling**, **database management**, and **algorithm design**  
+- Reflects how informatics professionals build **clinical decision support (CDS) prototypes**  
+- Demonstrates practical use of **Python + SQL** for healthcare data workflows
+
+
 
 
