@@ -32,18 +32,13 @@ Click the badge to run in the cloud (no install):
 
 ---
 
-## Run Locally
+## Example Output
 
-Clone the project:
+Input symptoms:  
+`["Fever", "Cough", "Headache", "Shortness of Breath"]`
 
-```bash
-git clone https://github.com/AsianaHolloway/Low-Level-Differential-Diagnostic-System.git
-cd Low-Level-Differential-Diagnostic-System
+### Screenshot
+![Example Output](https://github.com/AsianaHolloway/AssignmentDifferentialDiagnostics/blob/main/images.png?raw=true)
 
-Install dependencies:
-pip install -r requirements.txt
-
-Launch Jupyter Notebook:
-jupyter notebook AssignmentDifferentialDiagnostics.ipynb
 
 
